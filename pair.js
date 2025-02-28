@@ -70,7 +70,7 @@ router.get('/', async (req, res) => {
 Please Follow My Support Channel https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T
 Wanna talk? http://wa.me/254758755663?
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*MUSTAFFA KE*
+©*♥️JAVIEL AND POPKID♥️*
 
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
