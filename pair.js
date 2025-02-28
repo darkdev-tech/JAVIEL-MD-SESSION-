@@ -58,17 +58,17 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃JAVIEL SESSIONS
-┃ARE
-┃CONNECTED💙
+┃𝐉𝐀𝐕𝐈𝐄𝐋 𝐌𝐃 𝐒𝐄𝐒𝐒𝐈𝐎𝐍𝐒
+┃𝐀𝐑𝐄 𝐒𝐔𝐂𝐂𝐄𝐒𝐅𝐔𝐋𝐋𝐘
+┃𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃💙
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-🐞 || 𝐶𝑟𝑒𝑎𝑡𝑜𝑟 = POPKID
+🐞 || 𝐶𝑟𝑒𝑎𝑡𝑜𝑟 = 𝐉𝐀𝐕𝐈𝐄𝐋 𝐓𝐄𝐂𝐇
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-🐞 || YouTube Channel = https://youtube.com/@mustaffamk?si=uJQhZ5skOWwnT2oh
+🐞 || YouTube Channel = https://www.youtube.com/@pop_kid254
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l
-Wanna talk? http://wa.me/254758755663?
+Wanna talk? http://wa.me/254111385747?
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*♥️JAVIEL AND POPKID♥️*
 
