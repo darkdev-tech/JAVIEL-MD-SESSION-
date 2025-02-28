@@ -58,16 +58,16 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃MUSTAFFA SESSIONS
+┃JAVIEL SESSIONS
 ┃ARE
-┃CONNECTED💙🔵
+┃CONNECTED💙
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || 𝐶𝑟𝑒𝑎𝑡𝑜𝑟 = POPKID
+🐞 || 𝐶𝑟𝑒𝑎𝑡𝑜𝑟 = POPKID
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || YouTube Channel = https://youtube.com/@mustaffamk?si=uJQhZ5skOWwnT2oh
+🐞 || YouTube Channel = https://youtube.com/@mustaffamk?si=uJQhZ5skOWwnT2oh
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Please Follow My Support Channel https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T
+Please Follow My Support Channel https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l
 Wanna talk? http://wa.me/254758755663?
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*♥️JAVIEL AND POPKID♥️*
