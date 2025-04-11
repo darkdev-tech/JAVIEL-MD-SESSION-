@@ -58,21 +58,22 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃𝐉𝐀𝐕𝐈𝐄𝐋 𝐌𝐃 𝐒𝐄𝐒𝐒𝐈𝐎𝐍𝐒
-┃𝐀𝐑𝐄 𝐒𝐔𝐂𝐂𝐄𝐒𝐅𝐔𝐋𝐋𝐘
-┃𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃💙
+𝐈𝐓𝐒 𝐃𝐀𝐑𝐊 𝐌𝐃 𝐁𝐎𝐓 
+𝐘𝐎𝐔 𝐀𝐑𝐄 𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃
+> 𝐃𝐄𝐕 𝐏𝐎𝐏𝐊𝐈𝐃
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-🐞 || 𝐶𝑟𝑒𝑎𝑡𝑜𝑟 = 𝐉𝐀𝐕𝐈𝐄𝐋 𝐓𝐄𝐂𝐇
+𝐃𝐀𝐑𝐊 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-🐞 || YouTube Channel = https://www.youtube.com/@pop_kid254
+𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐏𝐀𝐆𝐄 = https://whatsapp.com/channel/0029VarDt9t30LKL1SoYXy26
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Please Follow My Support Channel https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l
-Wanna talk? http://wa.me/254111385747?
+𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐌𝐄 𝐕𝐈𝐀
+𝐌𝐘 𝐋𝐈𝐍𝐊?https://wa.me/254107065646?
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*♥️JAVIEL AND POPKID♥️*
-
-_Don't Forget To Give Star To My Repo_`
+*𝐃𝐀𝐑𝐊 𝐓𝐄𝐂𝐇*
+_____________________________________
+	
+_DONT FORGET TO FORK AND STAR MY REPO_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
  
 
